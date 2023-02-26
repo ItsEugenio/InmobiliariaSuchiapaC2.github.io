@@ -1,0 +1,221 @@
+
+body{
+/*	display: flex;
+	align-items: center;
+	justify-content: center;
+	*/
+    background: #e5e5e5;
+	
+     
+}
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e1_5 { 
+	color:rgba(0, 0, 0, 1);
+	width:967px;
+	height:189px;
+	position:absolute;
+	left:237px;
+	top:25px;
+	font-family:Inconsolata;
+	text-align:center;
+	font-size:80px;
+	letter-spacing:0;
+	letter-spacing: 25px;
+	
+}
+.e1_7 { 
+	box-shadow:10px 10px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:711px;
+	height:715px;
+	position:absolute;
+	left:687px;
+	top:258px;
+}
+.e1_8 { 
+	width:569px;
+	height:724px;
+	position:absolute;
+	left:47px;
+	top:249px;
+	background-image:url(/src/img/image_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_10 { 
+	color:rgba(0, 0, 0, 1);
+	width:443px;
+	height:79px;
+	position:absolute;
+	left:704px;
+	top:278px;
+	font-family:Inconsolata;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:0;
+}
+.e1_11 { 
+	color:rgba(0, 0, 0, 1);
+	width:158px;
+	height:55px;
+	position:absolute;
+	left:778px;
+	top:365px;
+	font-family:Inconsolata;
+	text-align:left;
+	font-size:35px;
+	letter-spacing:0;
+}
+.e1_17 { 
+	color:rgba(0, 0, 0, 1);
+	width:241px;
+	height:55px;
+	position:absolute;
+	left:778px;
+	top:543px;
+	font-family:Inconsolata;
+	text-align:left;
+	font-size:35px;
+	letter-spacing:0;
+}
+.e1_14 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:505px;
+	height:93px;
+	position:absolute;
+	left:768px;
+	top:611px;
+	border-radius:20px;
+}
+
+.e1_21 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:505px;
+	height:93px;
+	position:absolute;
+	left:768px;
+	top:420px;
+	border-radius:20px;
+}
+
+.e1_16 { 
+	color:rgba(89.24999848008156, 84.41562429070473, 84.41562429070473, 1);
+	width:500px;
+	height:70px;
+	position:absolute;
+	left:780px;
+	top:430px;
+	font-family:Inconsolata;
+	text-align:left;
+	font-size:35px;
+	letter-spacing:0;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	border: solid 1px;
+}
+.e1_19 { 
+	color:rgba(89.24999848008156, 84.41562429070473, 84.41562429070473, 1);
+	width:500px;
+	height:70px;
+	position:absolute;
+	left:780px;
+	top:610px;
+	font-family:Inconsolata;
+	text-align:left;
+	font-size:35px;
+	letter-spacing:0;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	border: solid 1px;
+}
+.e1_22 { 
+	
+	width:361px;
+	height:69px;
+	position:absolute;
+	left:862px;
+	top:720px;
+	border-radius:30px;
+}
+.e1_24 { 
+	background-color: rgba(32.00000189244747, 161.0000056028366, 217.0000022649765, 1);
+	color:rgba(0, 0, 0, 1);
+	width:294px;
+	height:47px;
+	position:absolute;
+	left:900px;
+	top:735px;
+	font-family:Inconsolata;
+	text-align:center;
+	font-size:35px;
+	letter-spacing:0;
+	border-radius: 25px;
+}
+a{
+	outline: none;
+  	text-decoration: none;
+ 	color:rgba(0, 0, 0, 1);
+  	font-family:Inconsolata;
+}
+.e1_25 { 
+	color:rgba(32.00000189244747, 161.0000056028366, 217.0000022649765, 1);
+	width:403px;
+	height:48px;
+	position:absolute;
+	left:857px;
+	top:817px;
+	font-family:Inconsolata;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e1_25 a{
+	color:rgba(32.00000189244747, 161.0000056028366, 217.0000022649765, 1);
+}
+.e1_26 { 
+	color:rgba(32.00000189244747, 161.0000056028366, 217.0000022649765, 1);
+	width:403px;
+	height:48px;
+	position:absolute;
+	left:841px;
+	top:904px;
+	font-family:Inconsolata;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e1_26 a{
+	color:rgba(32.00000189244747, 161.0000056028366, 217.0000022649765, 1);
+}
+.e1_27 { 
+	color:rgba(0, 0, 0, 1);
+	width:403px;
+	height:48px;
+	position:absolute;
+	left:841px;
+	top:865px;
+	font-family:Inconsolata;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+button{
+	position: relative;
+	top: 720px;
+	width: 200px;
+	height: 60px;
+	left: 650px;
+	font-size: 30px;
+	border-radius: 20px;
+	background-color: rgb(37, 210, 223);
+}
